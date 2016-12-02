@@ -21,15 +21,19 @@ msgid "General"
 msgstr ""
 
 msgctxt "#30011"
-msgid "MQTT Broker IP"
+msgid "Broker IP"
 msgstr ""
 
 msgctxt "#30012"
-msgid "MQTT Broker Port"
+msgid "Broker port"
 msgstr ""
 
 msgctxt "#30013"
-msgid "MQTT Topic Prefix"
+msgid "Topic prefix"
+msgstr ""
+
+msgctxt "#30014"
+msgid "MQTT Debug Logging"
 msgstr ""
 
 msgctxt "#30100"
@@ -46,4 +50,44 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Password"
+msgstr ""
+
+msgctxt "#30104"
+msgid "Use TLS connection"
+msgstr ""
+
+msgctxt "#30105"
+msgid "TLS broker CA crt"
+msgstr ""
+
+msgctxt "#30106"
+msgid "Use client certificates"
+msgstr ""
+
+msgctxt "#30107"
+msgid "TLS client certificate"
+msgstr ""
+
+msgctxt "#30108"
+msgid "TLS client key"
+msgstr ""
+
+msgctxt "#30200"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "#30201"
+msgid "Publish progress"
+msgstr ""
+
+msgctxt "#30202"
+msgid "Progress interval (in seconds)"
+msgstr ""
+
+msgctxt "#30203"
+msgid "Publish details"
+msgstr ""
+
+msgctxt "#30204"
+msgid "Ignore words (comma separated)"
 msgstr ""
